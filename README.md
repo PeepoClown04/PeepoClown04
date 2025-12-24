@@ -51,5 +51,5 @@ Actualmente estoy profundizando en:
 ## 📬 Contacto
 ¿Tienes una tarea repetitiva que quieres eliminar? Hablemos.
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]((https://www.linkedin.com/in/claudio-uribe-a48607341))
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](uribematias83@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/claudio-uribe-a48607341)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:uribematias83@gmail.com)
