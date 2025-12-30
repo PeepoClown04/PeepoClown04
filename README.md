@@ -44,11 +44,18 @@ Actualmente, estoy migrando soluciones locales a **Arquitecturas de Microservici
 
 ---
 
-## 🏆 Proyectos Destacados (Ver Pinned Repos)
+## 🏆 Proyectos en Producción (Live Deployments)
 
-1.  **[Finance Data Lake (Live Demo)](https://finance.dev-peepo.me):** Arquitectura de microservicios en Azure. Ingesta precios de Cripto en tiempo real, los almacena en NeonDB (Postgres) y visualiza volatilidad en Streamlit. Todo dockerizado tras Nginx.
-2.  **Amazon-MercadoLibre Tracker:** Scraper avanzado para monitoreo de precios en e-commerce con alertas automáticas.
-3.  **Automated Report Consolidator:** Script de automatización que procesa y fusiona múltiples fuentes de Excel para reportes de negocio.
+Actualmente gestiono una infraestructura propia en Azure. Mis proyectos no viven en `localhost`, están desplegados y operativos 24/7.
+
+| Proyecto | Arquitectura & Stack | Estado |
+| :--- | :--- | :--- |
+| **[📂 Mi Portafolio Web](http://dev-peepo.me)** | **Azure VM • Docker • Nginx**<br>Sitio personal contenerizado servido mediante proxy inverso con certificación SSL automática. | 🟢 **[Ver Online](http://dev-peepo.me)** |
+| **[📈 Finance Data Lake](http://finance.dev-peepo.me)** | **Python ETL • Postgres (Neon) • Streamlit**<br>Pipeline de datos en tiempo real. Ingesta precios de Cripto, almacena en SQL y visualiza volatilidad. | 🟢 **[Ver Online](http://finance.dev-peepo.me)** |
+
+### 🛠️ Otros Scripts de Automatización
+* **Amazon-MercadoLibre Tracker:** Scraper avanzado con alertas de precio (Selenium).
+* **Automated Report Consolidator:** Automatización de reportes Excel con Pandas.
 
 ---
 
